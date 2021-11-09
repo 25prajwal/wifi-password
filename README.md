@@ -34,7 +34,8 @@ Download zip :- [click me](https://github.com/prajwalkedari/wifi-password/archiv
 
 Goto **Download** Folder 
 
-Search for Folder Name as ***wifi-password***
+Search for Folder Name as ***wifi-password-main.zip***
+unzip Folder
 
 Open folder 
 
