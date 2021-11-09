@@ -73,7 +73,7 @@ Computer Science  Student
 [![Instgram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prajwal.kedari)
 [![linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajwalkedari)
 ## License
-[![](https://img.shields.io/github/license/prajwalkedari/wifi-password?style=plastic)](https://github.com/prajwalkedari/wifi-password/blob/main/LICENSE.txt)
+[![](https://img.shields.io/github/license/prajwalkedari/wifi-password?style=plastic)](https://github.com/prajwalkedari/wifi-password/blob/main/LICENSE)
   
 ## Requirement
 
