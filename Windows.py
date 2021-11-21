@@ -1,13 +1,13 @@
-# importing subprocess
+
 import subprocess
 
-# getting meta data
+
 meta_data = subprocess.check_output(['netsh', 'wlan', 'show', 'profiles'])
 
-# decoding meta data
+
 data = meta_data.decode('utf-8', errors ="backslashreplace")
 
-# splitting data by line by line
+
 data = data.split('\n')
 
 # creating a list of profiles
